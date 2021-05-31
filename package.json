@@ -30,7 +30,7 @@
     "buffer-alloc": "^1.1.0",
     "image-size": "^0.8.3",
     "parse-png": "^1.0.0",
-    "resize-img": "lesion/resize-img"
+    "resize-img": "lesion/resize-img#v2.0.0"
   },
   "devDependencies": {
     "ava": "*",
